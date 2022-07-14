@@ -1,0 +1,6 @@
+Customer: Gerrie
+Tel number: 0129946846
+Email: gerrie@gertland.co.za
+Completion Date: 2022-05-28
+
+Total amount to be paid: R100000.0
