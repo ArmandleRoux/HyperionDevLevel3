@@ -1,0 +1,6 @@
+Customer: Jesse
+Tel number: 0846521365
+Email: jesse@gmail.com
+Completion Date: 2022/06/06
+
+Total amount to be paid: R1000000.0

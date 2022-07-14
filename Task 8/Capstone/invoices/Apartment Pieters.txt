@@ -1,0 +1,6 @@
+Customer: Sandra Pieters
+Tel number: 0845623652
+Email: Customer@email.com
+Completion Date: 2022-05-28
+
+Total amount to be paid: R350000.0
