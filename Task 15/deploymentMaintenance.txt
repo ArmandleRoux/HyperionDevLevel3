@@ -1,0 +1,85 @@
+1.
+Direct deployment
+
+This approach is better to avoid but can be used in situations regarding license dependencies and
+sunsetting systems.
+
+pros
+ - If the system works properly the implementation time is very low.
+ - Is the most cost effective approach
+
+cons
+ - Staff have to be fully trained to use new system.
+ - Old system data needs to be uploaded to new system database which can be time consuming.
+ - Old system is completely removed so you have nothing to fall back on if the new system fails.
+
+----------------------------------------------------------------------------------------------------------
+Parallel deployment
+
+This appraoch can be uses for eg. when a bank launches a new data center and has scheduled for the
+old data center to be closed. The 2 systems will run parallel for a time period untill the new system
+is fully functional.
+
+pros
+ - You can fall back on the previous system.
+ - The staff can learn the new system at a slower and more steady pace.
+
+cons
+ - It costs more to run both systems.
+ - You might encounter sync issues between the 2 systems.
+ - Duplicate data has to be entered and my lead to errors.
+
+----------------------------------------------------------------------------------------------------------
+Phased deployment
+
+This approach can work with a supermarket system where certain checkout computers may be changed over to
+the new system and if the new system fails there will be a minimal effect on productivity due to only a
+small portion of checkout computers being affected. If the system works the staff can take turns using
+the new system to gain practise in using the system. As the systems work perfectly more checkout computers
+can be changed over to the new system in phases.
+
+pros
+ - Better planning, control and testing with regards to when software goes live.
+ - There is minimal effect on continual operations while testing happens.
+ - Issues discovered only affect a the certain part of the software that has gone live.
+
+cons
+ - Implementation takes longer.
+ - Comes at a higher cost due to the spread out approach as more time for
+   consultation and customer availability is needed.
+ - Have extra costs for still having to run old system as new system gets implemented.
+
+2.
+
+1. Direct deployment.
+   There is no previous electronic system to fall back on. A second-hand bookshop is also not very big and does not
+   have a lot of employees. Therefore the new system can be installed and tested immediately. Employees can go 
+   through a quick course to use the new system, as it won't be more complicated than the paper system, if at all.
+   For these reasons I would use direct deployment.
+
+2. Phased deployment.
+   In a large retail chain it would be best to be able to test the new system without affecting the whole
+   chain. Thus a phased deployment would fit best with this scenario, as the new system can be installed on
+   a small portion of the companies network, to be tested and rolled out in phases as the test results are
+   successful.   
+
+3. Parallel deployment.
+   Because reliability is important for this scenario, it would be best to have the old system running until
+   all the neccessary testing has been done on the new system. If the new system fails the old system is
+   still there as backup. Thus a perallel deployment would best suit this scenario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+Case 1:
+Linear Regression
+
+Explanatory variables:
+- Cost of property - continuous
+- Plot of land size - continueous
+
+Case 2:
+Logistic Regression
+
+Explanatory variables:
+- does it contain words 'prize' or 'win' - discrete
+- does it have a spelling error - discrete
+- is it spam - discrete
+
+Case 3:
+Logistic Regression
+
+Explanatory variables:
+- time/days after expiration - continuous
+- is it Sour or not - discrete

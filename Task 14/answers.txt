@@ -1,0 +1,33 @@
+1.
+ - How well it cleans.
+   Its Hardiness.
+   The smell.
+
+ - How reliable is the plane.
+   How far can it travel.
+   How fast can it travel.
+
+ - How does it taste.
+   How does it smell.
+   How healthy is it.
+
+2. A high quality software process ensures proper software documentation and is built to 
+   create a product of greater quality with the development team having standards to meet
+   with the systems they build by working through different phases such as design, development
+   and validation processing.
+
+   If it is not possible for system to meet the standard you might waste a lot
+   of time reworking the system to meet the standard set for the process. Agile
+   development will also not always work very well with a high quality software
+   process as the process ensures for proper software documentation where as Agile 
+   development does not have such formal software documentation.
+
+3. Program inspection can effectively discover errors due to the code being compared line by
+   line to a checklist of errors or common problems that may be found. This is effective because
+   you are looking for specific problem in the code.
+
+   Logical error will be difficult to detect with this method as logical error as better detected 
+   by testing the software rather than reading through the code.
+
+4. Each product has different requirments and specifications thus the relationships between internal
+   and external attributes differs for each product making it difficult to have a standard for validation.

@@ -1,0 +1,18 @@
+1. Will the user be able to view more information about each location.
+   Will the user be presented with a map of all the locations.
+   Will the user be able to buy more than 1 ticket at once.
+   Is your personal identification number your ID number or another
+   personal identifier provided by the rail company.
+
+
+2. The user should be able to go back if they chose the wrong destination
+   The user should be able to see each destination clearly and each destination
+   must be described in such a way that the user knows where it is.
+   When the user is asked to enter a credit card number the number should be
+   hidden for security purposes.
+   When validity checks are being done the user should be presented with a 
+   notification about the process.
+   The user should be able to cancel the process at anytime and the program
+   should reset to the start.
+   If the credit card check fails the user should be allowed to try again.
+   

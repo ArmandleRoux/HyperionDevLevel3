@@ -1,0 +1,40 @@
+Machine learning is the study and design of systems that uses gathered data to influence
+future decisions. The machines "learns" from the data it gathers with the aim to produce better
+decisions in the future. Machine learning usually refers to the changes in systems that perform 
+tasks associated with artificial intelligence. Such tasks involve recognition, diagnosis, 
+planning, robot control, prediction, etc. These “changes” might either enhance the already 
+performing systems or the beginner synthesis of new systems. Entertainment streaming services use 
+machine learning to predict what people want to watch next by using the data gathered from the 
+previous shows they watched.
+
+Supervised machine learning depends on input and output. The machine gathers input from the
+user and uses the data to produce a more acurate and desired output.The machine will recommend
+content based on previous input from the user. The more acurate recommendations the machine
+makes the more it learns from the input to produce an even better output in the future. For
+example in image classification the machine trains to identify certain objects in images
+based on a defined set of properties. Models of supervised macine learning is:
+-Neural networks
+-Linear regression
+-Logistic regression
+-K-nearest neighbor
+
+Unsupervised machine learning looks for patterns in data and groups them together. The machine
+gather data and finds paterns and refines these patterns as more data is collected without the
+supervision of any human. These patterns for show connection between properties as can be used
+to produce acurate predictions. Such as in targeted advertising for example people who buy 
+plants might also buy gardening gear the machine will then make the see the pattern it creates
+and it will start to recommend gardening gear to someone who buys plants as there is a pattern
+between the two. Models of unsupervised machine learning:
+-K-means clustering
+-Hierarchal clustering
+
+Semi-supervised machines learning is a combination of supervised and unsupervised machine
+learning and is used when we do not have labels for all our examples in our training dataset.
+
+I really find self-driving cars very interesting and how different companies try different
+things. Tesla uses cameras in their cars as Elon Musk prefers cameras as it is the closest
+replication to the human eye. Where other companies such like BMW opting to use a technology
+called Lidar which can detect range by using light as a pulsed laser.Machine learning allows
+a car to collect data on its surroundings from cameras and other sensors, interpret it, and
+decide what actions to take. The more it can go thrugh this process the more you it can learn
+to make better future decisions.

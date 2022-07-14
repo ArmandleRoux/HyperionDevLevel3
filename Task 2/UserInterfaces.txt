@@ -1,0 +1,19 @@
+1. Bad UI
+   The home interface is very cluttered and busy. It could be made more simple.
+   Although colours, textures and typography is used it is not used 
+   purposefully. The colours that are use blend with each other and make 
+   it dificult to see what is going on. Some of the text is very small 
+   and uses a difficult to read font.
+   The layout of the website is very unstructured there is large gaps between 
+   images, paragraphs are devided by images and is difficult to read and none
+   of the images have discriptions which makes it difficult to know what you
+   are lookig at.
+
+2. Good UI
+   The layout is very clean and simple. The elements of the webpage are where
+   you would expect them to be such as the cart and login buttons in the top 
+   right corner. The colours used work with the theme of the website. The 
+   typography is used with purpose and you can clearly distinguish the headings
+   from each other. The font is easy to read and a good size. The website 
+   communicates with you and you can see what is going on eg. There is a loading 
+   icon when you click on a link to show the user the page is loading.

@@ -1,0 +1,23 @@
+Update anomaly:
+  An update anomaly can occur whith the prod_num and prod_label. Everywhere the prod_num is the same
+  the prod_label will be the same. This can create an inconsistency in the data of all rows are not
+  successfully updated in every time. 
+
+  To prevent this from happening the prod_num and prod_label will have its own table that is linked to
+  the main table through the prod_num column thus preventing updates of multiple columns in a row.
+
+
+Insertion anomaly:
+  To add a new product you have to create an new invoice first and this requires data you do not have
+  so some columns may be left empty which may cause an error as we need an invoice number because it
+  is a primary key.
+
+  To prevent this the products will have their own table to add in new products as you wish and can be 
+  accessed by the main table through a foreign key.
+
+Deletion anomaly:
+  If you delete an invoice you risk the chance of deleting information of the row such as the vend_name
+  and vend_code.
+
+  To prevent this your vendors will have their own table with their information stored that can be accessed
+  by the main table through a foreign key thus ppreventing any valuble information from being deleted.

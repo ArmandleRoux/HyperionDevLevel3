@@ -1,0 +1,16 @@
+From what i observed I can see that the fewer births per 1000 people there are in a country the
+higher the life expectancy of that country will be. From 1953 to 2008 it seems that most countries
+tried to lower their birthrates which raised their life expectancy. The rate at which the life expectancy
+increases compared to the lowering of birth rate is not constant across all countries which indicates
+another factor that is involved with life expectancy.
+
+It seems that the 2008 countries that are in the group with majority 1953 coutries are poorer than the
+other countries. Although these countries have lowered their birth rate their life expectancy is still
+very low. There is a cluster of countries that have quite a high life expectancy to birth rate ration
+with olny a single 1953 country Iceland. Wealthy countries can give their people better health care
+which can also lead to highger life expectancy.
+
+The second largest cluster consist of mostly well off countries that have a low birth rate and a
+high life expectancy. This cluster contains a few countries from 1953 that have historically been
+pretty whealthy countries. Most of those countries are still in the cluster in 2008 and are joined
+by other nations that had good economical growth from 1953 to 2008.

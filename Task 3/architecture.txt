@@ -1,0 +1,32 @@
+1. An email system is a good example for layered architecture.
+   It has a presentation layer that presents the user with their emails and the
+   ability to interact with them.
+   It has a Business layer where all the internal processing is being done.
+   It has a database layer where all the information of each email is stored
+   and retrieved from.
+
+   A database management system is a good example for repository architectur.
+   Your database will be your Repository of data and all the other components
+   will send and receive data using the Repository.You will have a user interface
+   aswell as internal components that will use the Repository.
+ 
+   A book finder will be a good example of client-server architecture.
+   All the books and their information is stored on a server and a user can connect
+   through a network to the server and request the book. This book can be provided
+   to more that one user at a time with the only constaint being a stable internet
+   connection.
+
+   A data processing apllication will benefit from pipe and filter architecture.
+   This architecture allows the inputed data to be processed in stages that perform 
+   a range of operations on the inout to generate the desired output.
+
+2. A video streaming system like Youtube will make use of multiple patterns one being
+   a client server pattern for multiple user to watch the same thing at once. It will also 
+   use a pipe and filter patern for regulation of content and what is being displyed on 
+   the website. There may also be a repository system for the upload and deletion of videos.
+
+   A banking system will make use of a client server pattern for users to have access to their
+   information. A banking system will also use a pipe and filter pattern to filter the data
+   being presented for protection of sensitive data.
+
+   

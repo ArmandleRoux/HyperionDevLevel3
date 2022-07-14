@@ -1,0 +1,25 @@
+1. Data is unstructured and difficult to read and consist of raw facts.
+   Information is data that has been restructured to make it easier to read and understand \
+   and can be used for finding behavioural paterns.
+
+2. Sparse data is where the data collected has readings with no information.
+   The alternative is missing data where the data collected has readings with
+   missing information rather than no information. With missing data you will
+   either have to manually enter the information of the missing data with it 
+   having an effect on the end result or try the experiment again.
+
+3. Relational DBMSes:
+	* Oracle
+	* MySQL
+	* Microsoft Access
+   NoSQL DBMSes:
+	* Graph Databases
+	* Key-Value Stores
+	* Document Database
+
+4. Transaction consistency refers to the consistency of the data being provided.
+   A transaction will need to adhere to specific rules and if it does not the 
+   transaction will rollback and revert the database to its original state.
+
+5. Records: 4
+   Fields per record: 5
